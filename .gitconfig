@@ -2,4 +2,9 @@
 	email = damien.moity@amtrust.fr
 	name = damien.moity
 [push]
-	default = simple
+	default = current
+[color]
+	ui = true
+[core]
+	editor = nano
+	pager = less -r
